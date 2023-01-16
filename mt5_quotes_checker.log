@@ -1,0 +1,54 @@
+INFO:root:2022-08-05 12:01:56.714295 - Checker started
+INFO:root:2022-08-05 12:02:51.192915 - Checker stopped
+INFO:root:2022-08-05 12:03:06.352340 - Checker started
+ERROR:root:2022-08-05 12:03:06.754264 - Gateway ERROR
+ERROR:root:2022-08-05 12:03:17.191069 - Gateway ERROR
+ERROR:root:2022-08-05 12:03:27.717929 - Gateway ERROR
+ERROR:root:2022-08-05 12:03:38.272856 - Gateway ERROR
+ERROR:root:2022-08-05 12:03:48.806145 - Gateway ERROR
+ERROR:root:2022-08-05 12:03:59.319425 - Gateway ERROR
+INFO:root:2022-08-05 12:09:39.387041 - Checker stopped
+INFO:root:2022-08-05 12:11:27.995795 - Checker started
+INFO:root:2022-08-05 12:11:59.108484 - Gateway checker stopped!
+INFO:root:2022-08-05 12:41:19.344204 - Checker started
+ERROR:root:2022-08-05 12:41:20.287680 - Gateway ERROR
+ERROR:root:2022-08-05 12:41:31.082650 - Gateway ERROR
+INFO:root:2022-08-05 12:41:36.587084 - Gateway checker stopped!
+INFO:root:2022-08-05 12:42:17.747673 - Checker started
+ERROR:root:2022-08-05 12:42:18.306216 - Gateway ERROR
+INFO:root:2022-08-05 12:42:26.250929 - Gateway checker stopped!
+INFO:root:2022-08-05 12:42:33.452668 - Checker started
+ERROR:root:2022-08-05 12:42:33.952368 - Gateway ERROR
+ERROR:root:2022-08-05 12:42:39.352887 - Gateway ERROR
+ERROR:root:2022-08-05 12:42:44.812282 - Gateway ERROR
+ERROR:root:2022-08-05 12:42:50.282693 - Gateway ERROR
+ERROR:root:2022-08-05 12:42:55.734071 - Gateway ERROR
+ERROR:root:2022-08-05 12:43:01.127677 - Gateway ERROR
+INFO:root:2022-08-05 12:43:01.256302 - Gateway checker stopped!
+INFO:root:2022-08-05 12:43:36.022418 - Checker started
+INFO:root:2022-08-05 12:44:00.795845 - Gateway checker stopped!
+INFO:root:2022-08-05 12:52:56.151101 - Checker started
+INFO:root:2022-08-05 12:56:01.716605 - Checker started
+ERROR:root:2022-08-05 12:56:01.882162 - Gateway ERROR
+ERROR:root:2022-08-05 12:56:07.002462 - Gateway ERROR
+ERROR:root:2022-08-05 12:56:12.093839 - Gateway ERROR
+ERROR:root:2022-08-05 12:56:17.222118 - Gateway ERROR
+ERROR:root:2022-08-05 12:56:22.311501 - Gateway ERROR
+INFO:root:2022-08-05 13:06:01.137802 - Checker started
+INFO:root:2022-08-05 13:06:16.586467 - Gateway checker stopped!
+INFO:root:2022-08-05 13:07:07.627901 - Checker started
+INFO:root:2022-08-05 13:13:45.909265 - Gateway checker stopped!
+INFO:root:2022-08-05 13:15:23.796359 - Checker started
+ERROR:root:2022-08-05 13:23:40.999051 - Gateway ERROR
+ERROR:root:2022-08-05 13:23:46.206118 - Gateway ERROR
+ERROR:root:2022-08-05 13:23:51.339384 - Gateway ERROR
+ERROR:root:2022-08-05 13:23:56.434751 - Gateway ERROR
+ERROR:root:2022-08-05 13:24:01.533110 - Gateway ERROR
+ERROR:root:2022-08-05 13:24:06.623490 - Gateway ERROR
+INFO:root:2022-08-05 13:32:08.547062 - Checker started
+INFO:root:2022-08-05 13:33:38.338816 - Checker started
+INFO:root:2022-08-05 13:33:55.444050 - Gateway checker stopped!
+INFO:root:2022-08-05 13:35:38.530233 - Checker started
+INFO:root:2022-08-05 13:38:31.878425 - Checker started
+INFO:root:2022-08-09 19:02:07.265856 - Checker started
+INFO:root:2022-08-09 19:02:17.345886 - Gateway checker stopped!
